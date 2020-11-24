@@ -1,0 +1,11 @@
+/Users/benjamindanielmorgan/Projects/3.5/3.5/obj/Debug/netcoreapp2.0/3.5.csprojResolveAssemblyReference.cache
+/Users/benjamindanielmorgan/Projects/3.5/3.5/obj/Debug/netcoreapp2.0/3.5.csproj.CoreCompileInputs.cache
+/Users/benjamindanielmorgan/Projects/3.5/3.5/obj/Debug/netcoreapp2.0/3.5.AssemblyInfoInputs.cache
+/Users/benjamindanielmorgan/Projects/3.5/3.5/obj/Debug/netcoreapp2.0/3.5.AssemblyInfo.cs
+/Users/benjamindanielmorgan/Projects/3.5/3.5/bin/Debug/netcoreapp2.0/3.5.deps.json
+/Users/benjamindanielmorgan/Projects/3.5/3.5/bin/Debug/netcoreapp2.0/3.5.runtimeconfig.json
+/Users/benjamindanielmorgan/Projects/3.5/3.5/bin/Debug/netcoreapp2.0/3.5.runtimeconfig.dev.json
+/Users/benjamindanielmorgan/Projects/3.5/3.5/bin/Debug/netcoreapp2.0/3.5.dll
+/Users/benjamindanielmorgan/Projects/3.5/3.5/bin/Debug/netcoreapp2.0/3.5.pdb
+/Users/benjamindanielmorgan/Projects/3.5/3.5/obj/Debug/netcoreapp2.0/3.5.dll
+/Users/benjamindanielmorgan/Projects/3.5/3.5/obj/Debug/netcoreapp2.0/3.5.pdb
